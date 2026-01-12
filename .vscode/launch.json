@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/maximilianlemmerth/Documents/Assignments_C_Programming/01-assignment-jg2025-Max-1em",
+      "program": "/Users/maximilianlemmerth/Documents/Assignments_C_Programming/01-assignment-jg2025-Max-1em/build/Debug/outDebug"
+    }
+  ]
+}
